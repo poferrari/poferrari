@@ -6,3 +6,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/joão-vitor-ferrari-da-silva-70685526" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joão-vitor-ferrari-da-silva-70685526" height="30" width="30" /></a>
 </p>
+
+#### Skills: 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=poferrari&show_icons=true)  
